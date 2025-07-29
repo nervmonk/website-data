@@ -1,0 +1,49 @@
+{
+    "tkbData": {
+        "tkb0": "82.15%",
+        "tkb30": "83.10%",
+        "tkb60": "83.25%"
+    },
+    "businessData": {
+        "borrowerSinceFirst": {
+            "_comment": "自成立以来的借款人数量",
+            "value": "1.92 Juta"
+        },
+        "borrowerSinceYear": {
+            "_comment": "本年度借款人数量",
+            "value": "312 Ribu"
+        },
+        "borrowerEndPosition": {
+            "_comment": "期末借款人数量",
+            "value": "23.68 Ribu"
+        },
+        "disburseSinceFirst": {
+            "_comment": "自成立以来的累计放款金额",
+            "value": "19.97 Triliun"
+        },
+        "disburseInYear": {
+            "_comment": "本年度放款金额",
+            "value": "3.33 Triliun"
+        },
+        "disburseEndPosition": {
+            "_comment": "期末放款金额",
+            "value": "95.15 Miliar"
+        },
+        "lenderSinceFirst": {
+            "_comment": "自成立以来的出资人数量",
+            "value": "5 Entitas"
+        },
+        "lenderInYear": {
+            "_comment": "本年度出资人数量",
+            "value": "5 Entitas"
+        },
+        "lenderEndPosition": {
+            "_comment": "期末出资人数量",
+            "value": "5 Entitas"
+        },
+        "unpaidAmount": {
+            "_comment": "未支付的资金额",
+            "value": "723 Miliar"
+        }
+    }
+}
