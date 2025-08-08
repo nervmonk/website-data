@@ -8,17 +8,17 @@
         "borrowerSinceFirst": {
             "_commentCN": "自成立以来的借款人数量",
             "_commentID": "Jumlah Penerima Dana Sejak Awal Berdiri",
-            "value": "1.92 Juta"
+            "value": "1.93 Juta"
         },
         "borrowerSinceYear": {
             "_commentCN": "本年度借款人数量",
             "_commentID": "Jumlah Penerima Dana Tahun Berjalan",
-            "value": "318 Ribu"
+            "value": "324 Ribu"
         },
         "borrowerEndPosition": {
             "_commentCN": "期末借款人数量",
             "_commentID": "Jumlah Penerima Dana di Posisi Akhir",
-            "value": "22.96 Ribu"
+            "value": "22.97 Ribu"
         },
         "disburseSinceFirst": {
             "_commentCN": "自成立以来的累计放款金额",
@@ -28,12 +28,12 @@
         "disburseInYear": {
             "_commentCN": "本年度放款金额",
             "_commentID": "Jumlah Pendanaan yang Tersalurkan Tahun Berjalan",
-            "value": "3.43 Triliun"
+            "value": "3.52 Triliun"
         },
         "disburseEndPosition": {
             "_commentCN": "期末放款金额",
             "_commentID": "Jumlah Pendanaan yang Tersalurkan di Posisi Akhir",
-            "value": "95.76 Miliar"
+            "value": "93.33 Miliar"
         },
         "lenderSinceFirst": {
             "_commentCN": "自成立以来的出资人数量",
@@ -53,7 +53,7 @@
         "unpaidAmount": {
             "_commentCN": "未支付的资金额",
             "_commentID": "Jumlah Pendanaan yang Belum Dibayar",
-            "value": "709 Miliar"
+            "value": "702 Miliar"
         }
     }
 }
