@@ -1,39 +1,39 @@
 {
     "tkbData": {
-        "tkb0": "86.19%",
-        "tkb30": "85.51%",
-        "tkb60": "85.35%"
+        "tkb0": "83.23%",
+        "tkb30": "85.61%",
+        "tkb60": "85.54%"
     },
     "businessData": {
         "borrowerSinceFirst": {
             "_commentCN": "自成立以来的借款人数量",
             "_commentID": "Jumlah Penerima Dana Sejak Awal Berdiri",
-            "value": "1.98 Juta"
+            "value": "1.99 Juta"
         },
         "borrowerSinceYear": {
             "_commentCN": "本年度借款人数量",
             "_commentID": "Jumlah Penerima Dana Tahun Berjalan",
-            "value": "381 Ribu"
+            "value": "384 Ribu"
         },
         "borrowerEndPosition": {
             "_commentCN": "期末借款人数量",
             "_commentID": "Jumlah Penerima Dana di Posisi Akhir",
-            "value": "16.26 Ribu"
+            "value": "15.73 Ribu"
         },
         "disburseSinceFirst": {
             "_commentCN": "自成立以来的累计放款金额",
             "_commentID": "Jumlah Pendanaan yang Tersalurkan Sejak awal berdiri",
-            "value": "20.68 Triliun"
+            "value": "20.75 Triliun"
         },
         "disburseInYear": {
             "_commentCN": "本年度放款金额",
             "_commentID": "Jumlah Pendanaan yang Tersalurkan Tahun Berjalan",
-            "value": "4.38 Triliun"
+            "value": "4.45 Triliun"
         },
         "disburseEndPosition": {
             "_commentCN": "期末放款金额",
             "_commentID": "Jumlah Pendanaan yang Tersalurkan di Posisi Akhir",
-            "value": "66.11 Miliar"
+            "value": "67.10 Miliar"
         },
         "lenderSinceFirst": {
             "_commentCN": "自成立以来的出资人数量",
@@ -53,7 +53,7 @@
         "unpaidAmount": {
             "_commentCN": "未支付的资金额",
             "_commentID": "Jumlah Pendanaan yang Belum Dibayar",
-            "value": "580 Miliar"
+            "value": "566 Miliar"
         }
     }
 }
