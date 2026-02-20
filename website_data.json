@@ -1,8 +1,8 @@
 {
     "tkbData": {
-        "tkb0": "88.88%",
-        "tkb30": "88.63%",
-        "tkb60": "87.99%"
+        "tkb0": "88.21%",
+        "tkb30": "88.76%",
+        "tkb60": "88.32%"
     },
     "businessData": {
         "borrowerSinceFirst": {
@@ -13,27 +13,27 @@
         "borrowerSinceYear": {
             "_commentCN": "本年度借款人数量",
             "_commentID": "Jumlah Penerima Dana Tahun Berjalan",
-            "value": "77.57 Ribu"
+            "value": "86.21 Ribu"
         },
         "borrowerEndPosition": {
             "_commentCN": "期末借款人数量",
             "_commentID": "Jumlah Penerima Dana di Posisi Akhir",
-            "value": "21.15 Ribu"
+            "value": "21.60 Ribu"
         },
         "disburseSinceFirst": {
             "_commentCN": "自成立以来的累计放款金额",
             "_commentID": "Jumlah Pendanaan yang Tersalurkan Sejak awal berdiri",
-            "value": "21.81 Triliun"
+            "value": "21.89 Triliun"
         },
         "disburseInYear": {
             "_commentCN": "本年度放款金额",
             "_commentID": "Jumlah Pendanaan yang Tersalurkan Tahun Berjalan",
-            "value": "446.91 Miliar"
+            "value": "522.72 Miliar"
         },
         "disburseEndPosition": {
             "_commentCN": "期末放款金额",
             "_commentID": "Jumlah Pendanaan yang Tersalurkan di Posisi Akhir",
-            "value": "74.14 Miliar"
+            "value": "75.81 Miliar"
         },
         "lenderSinceFirst": {
             "_commentCN": "自成立以来的出资人数量",
